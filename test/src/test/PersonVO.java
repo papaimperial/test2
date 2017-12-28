@@ -32,5 +32,11 @@ public class PersonVO
 	public void setNo(int no) {
 		this.no = no;
 	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
 	
 }
