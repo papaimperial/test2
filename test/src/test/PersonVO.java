@@ -7,7 +7,9 @@ public class PersonVO
 	private String tel;
 	private int no;
 	private int age;
+
 	private String gender;
+
 	
 	public String getName() {
 		return name;
